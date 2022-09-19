@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flex-use {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.mark-text {
+    color: orange;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(56, 9, 59), tomato);
+    padding: 15px 25px;
+    border-radius: 30px;
+}
+
+.text-site {
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+
+.image-site {
+    width: 50%;
+    margin-left: 50px;
+
+}
+
+.image-site img {
+    width: 100%;
+}
+
+#midsection-bg {
+    background-image: url(images/shapes/7.png);
+}
+
+#about-me {
+    width: 50%;
+    margin-top: 30px;
+    margin-right: 100px;
+}
+
+#aboutme-img {
+    width: 50%;
+    margin-left: 100px;
+}
+
+#aboutme-img img {
+    width: 60%;
+}
