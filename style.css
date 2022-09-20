@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .flex-use {
     display: flex;
     margin-bottom: 100px;
@@ -62,4 +66,53 @@ a {
 
 #aboutme-img img {
     width: 60%;
+}
+
+#my-recipies {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+#recipie-tittle1 {
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 5px 5px 5px gray;
+    width: 50%;
+    height: 400px;
+    text-align: justify;
+    margin-left: 90px;
+    margin-right: 30px;
+}
+
+#recipie-tittle2 {
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 5px 5px 5px gray;
+    width: 50%;
+    height: 400px;
+    margin-right: 90px;
+    text-align: justify;
+}
+
+#recipie-tittle1 img {
+    width: 80%;
+}
+
+#recipie-tittle2 img {
+    width: 80%;
+}
+
+.soccial-types {
+    margin-left: 35px;
+    margin-right: 35px;
+    text-align: center;
+}
+
+#social-follower {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 40px 100px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 20px;
 }
